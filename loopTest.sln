@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loopTest", "loopTest.csproj", "{7CE39ACB-9882-1D22-FF10-93079DD3D52E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loopTest.Editor", "loopTest.Editor.csproj", "{A77C2AFA-DBF5-7AB5-945B-7F4330C290AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CE39ACB-9882-1D22-FF10-93079DD3D52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE39ACB-9882-1D22-FF10-93079DD3D52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE39ACB-9882-1D22-FF10-93079DD3D52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE39ACB-9882-1D22-FF10-93079DD3D52E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A77C2AFA-DBF5-7AB5-945B-7F4330C290AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77C2AFA-DBF5-7AB5-945B-7F4330C290AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77C2AFA-DBF5-7AB5-945B-7F4330C290AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77C2AFA-DBF5-7AB5-945B-7F4330C290AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
